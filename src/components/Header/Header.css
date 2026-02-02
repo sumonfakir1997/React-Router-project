@@ -1,0 +1,13 @@
+/* base link spacing inside the nav */
+.site-nav a {
+    color: inherit;
+    padding: 6px 8px;
+    border-radius: 4px;
+}
+
+/* active link (no space between a and .active) */
+.site-nav a.active {
+    background-color: red;
+    text-decoration: underline;
+    color: black;
+}
